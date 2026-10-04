@@ -1,0 +1,4 @@
+System,Operational_CO2_t_per_year,Autonomous_Electricity_pct,Capital_Investment_EUR,Government_Grant_EUR,Net_Capital_After_Grant_EUR,Annual_Grid_Export_Income_EUR
+Conventional supply,93.7,100,,,,
+PV + Battery,0.0,100,175309.0,70123.63,105185.4,29825.4
+PV + Biogas,18.54,100,169034.0,72013.6,108020.4,38691.56
